@@ -1,87 +1,83 @@
-<!-- 🔥 Premium Web3 Developer Banner -->
 <p align="center">
-  <img src="sandbox:/mnt/data/A_digital_graphic_design_banner_showcases_Pratik_P.png" width="100%" />
+  <img src="/mnt/data/A_digital_graphic_design_banner_showcases_Pratik_P.png" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Pratik Pathak</h1>
-<h3 align="center">Web3 Developer | Smart Contracts | dApps | EVM Ecosystem</h3>
+<h1 align="center">👋 Hi, I'm Pratik Pathak</h1>
+
+<p align="center">
+  <b>Web3 Developer • Smart Contract Developer • EVM Specialist</b>
+</p>
 
 ---
 
 ## 🚀 About Me
-I'm a Web3 developer focused on **EVM chains**, building:
 
-- Smart Contracts (Solidity)
-- NFT Minting Platforms  
-- Full dApps (Frontend + Backend)  
-- Web3 Integrations (Wallets, MetaMask, Alchemy, ThirdWeb)  
-- Blockchain-based products  
+I'm a passionate **Web3 & Blockchain Developer**, focused on building real-world decentralized applications using **Solidity, JavaScript, and EVM-based blockchains**.
 
-Currently preparing for **IBW / IBT India**, aiming to connect with founders & top builders.
+I love creating **smart contracts, NFT platforms, ERC20 tokens, and full-stack dApps**.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 🧱 Blockchain & Smart Contracts
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ethereum" height="40"/>
-  <img src="https://skillicons.dev/icons?i=web3" height="40"/>
-</p>
+### **Blockchain**
+- Solidity  
+- EVM (Ethereum, Polygon, Arbitrum, Base)  
+- Hardhat / Remix / MetaMask  
+- Web3.js / Ethers.js  
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-</p>
+### **Frontend**
+- React.js  
+- HTML, CSS, JS  
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</p>
+### **Tools**
+- Git & GitHub  
+- VS Code  
+- Thirdweb  
+- Alchemy / Infura  
 
 ---
 
-## 📌 Featured Projects (Coming Soon)
-- 🔥 NFT Minting dApp  
-- 🔗 EVM Smart Contract Suite  
-- 🌐 Full-stack Web3 Application  
+## 📫 Connect With Me
 
-*(All projects will be updated before IBW.)*
-
----
-
-## 📬 Connect With Me
-
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/pratik-pathak-076977259/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://x.com/PratikPath40554" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="mailto:pratikpathak2004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <a href="mailto:pratikpathak2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-<p align="center">
-  <img src="A_digital_graphic_design_banner_showcases_Pratik_P.png" alt="Pratik Pathak Banner" />
-</p>
 
-## ⭐ GitHub Stats
+## 🔥 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikpathak2004&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpathak2004&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikpathak2004&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpathak2004&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-<p align="center">🔥 Building Web3, one block at a time.</p>
+## 🌟 Currently Working On
+- 🔐 Smart Contracts  
+- 💠 NFT & ERC20 Projects  
+- 🌐 Full Stack Web3 dApps  
+- 🚀 Preparing for IBW Opportunities  
+
+---
+
+## 🎯 Goals for 2025
+- Become a top Web3 developer in India  
+- Build 10+ high-quality blockchain projects  
+- Contribute to open-source Web3 ecosystems  
+- Land a paid internship or job in Web3  
+
+---
+
