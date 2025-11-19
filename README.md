@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="/mnt/data/A_digital_graphic_design_banner_showcases_Pratik_P.png" width="100%" alt="Banner" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Pratik Pathak</h1>
 
