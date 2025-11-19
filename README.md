@@ -72,6 +72,9 @@ Currently preparing for **IBW / IBT India**, aiming to connect with founders & t
 </p>
 
 ---
+<p align="center">
+  <img src="A_digital_graphic_design_banner_showcases_Pratik_P.png" alt="Pratik Pathak Banner" />
+</p>
 
 ## ⭐ GitHub Stats
 <p align="center">
